@@ -38,7 +38,7 @@ does the [Spanish guide](https://duplicat.app/es/como-usar).
 
 ## Install
 
-1. Download `Duplicat-0.1.0-macOS-arm64.zip` from the
+1. Download `Duplicat-0.1.1-macOS-arm64.zip` from the
    [latest release](https://github.com/diegobas/duplicat-releases/releases/latest) and drag
    `Duplicat.app` into Applications.
 2. Open it once. The app is signed outside the App Store, so macOS is cautious the first time:
